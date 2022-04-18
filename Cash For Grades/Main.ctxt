@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ NRCC\ will\ award\ each\ student\ a\ cash\ prize\ that\ is\ calculated\ as\ 150\n\ times\ the\ student\u2019s\ grade\ point\ average.\ If\ a\ student\ has\ a\ grade\ \n\ point\ average\ of\ 3.76,\ the\ college\ will\n\ award\ that\ student\ $564.0.\n\n\ @author\ (Andrew\ Choi)\n\ @version\ (09/21/2020)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ User\ enters\ name\ and\ gpa\n
+comment2.params=name\ gpa
+comment2.target=void\ computeAward(java.lang.String,\ double)
+comment2.text=\n\ Calculate\ the\ award\ for\ gpa\ \n
+numComments=3
